@@ -5,9 +5,11 @@ Overview
 Depression is a type of mood illness characterised by a continuous sense of melancholy and a loss of interest.
 Time-bound life is prevalent in today's culture. People who can’t adopt this type of environment, experience tension and mental depression as a result of this. Mental depression is becoming more common all around the world. The saddest part of this problem is that many of them are completely unaware that they are depressed while also being terrified of doctors.
 In this critical situation, intelligent software that can detect depression automatically will be extremely beneficial to humanity.
+
 The Problems
 The majority of people are unaware that they are depressed. They simply accept the situation and consider it normal behaviour.
-Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+In our society, mental illness is considered taboo.  People fear or dislike going to visit the doctor(psychiatrist) or discussing their mental health in public.
+
 Project Objective
 It would be ideal if the software or an app could instantly detect whether or not someone is depressed. It would overcome both concerns by raising awareness and reducing doctor apprehension.
 Target Audience
@@ -33,7 +35,6 @@ It is, however, mostly employed to solve categorization difficulties. The purpos
 Support vectors are the data points that assist define the hyperplane, hence the algorithm is called a support vector machine.
 
 	
-
 
 Methodologies: Interface Design
 It is very important to make sure that, this kind of software reaches the masses. So we are developing it as platform-independent software. As the whole project is built upon python, so we are using Tkinter framework for our development.
