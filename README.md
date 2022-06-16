@@ -1,4 +1,5 @@
-# Project_ADD
+# Automated Depression Detection
+
  
 Overview
 Depression is a type of mood illness characterised by a continuous sense of melancholy and a loss of interest.
